@@ -1,0 +1,6 @@
+Testing git using command line
+creating a few lines of text
+with new lines built in
+with no appending
+and no use of the graphical user interface
+output into txt file
