@@ -4,3 +4,5 @@ with new lines built in
 with no appending
 and no use of the graphical user interface
 output into txt file
+adding a few more lines to test
+that the pull function works
